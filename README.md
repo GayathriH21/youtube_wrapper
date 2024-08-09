@@ -10,6 +10,10 @@ This Python package provides a convenient wrapper around the YouTube Data API an
 - List videos from a specific channel.
 - Fetch video transcripts, supporting multiple languages and automatic translations.
 - Handle cases where transcripts are not available.
+- 
+## Instruction
+
+Replace placeholders like `your-username`, `your-repository-name`, and `'YOUR_API_KEY'` with actual values specific to your project. This README should help users and contributors understand and use your package effectively.
 
 ## Installation Instructions
 
