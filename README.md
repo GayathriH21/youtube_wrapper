@@ -13,7 +13,7 @@ This Python package provides a convenient wrapper around the YouTube Data API an
 - 
 ## Instruction
 
-Replace placeholders like `your-username`, `your-repository-name`, and `'YOUR_API_KEY'` with actual values specific to your project. This README should help users and contributors understand and use your package effectively.
+Replace placeholders like `your-username`, `your-repository-name`, and `'YOUR_API_KEY'` with actual values specific to your project. 
 
 ## Installation Instructions
 
