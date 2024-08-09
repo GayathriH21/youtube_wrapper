@@ -18,13 +18,5 @@ To install the package, simply use pip:
 ```bash
 pip install youtube-api-wrapper
 
-
-### Explanation:
-- **Project Overview**: Summarizes what the package does.
-- **Installation Instructions**: Explains how to install the package via pip or from the source.
-- **Usage Examples**: Provides code snippets to demonstrate how to use the package.
-- **Contribution Guidelines**: Instructs how others can contribute to the project.
-- **License Information**: Mentions the license under which the project is released.
-
 Replace placeholders like `your-username`, `your-repository-name`, and `'YOUR_API_KEY'` with actual values specific to your project. This README should help users and contributors understand and use your package effectively.
 
