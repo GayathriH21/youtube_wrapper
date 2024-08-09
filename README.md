@@ -20,6 +20,6 @@ Replace placeholders like `your-username`, `your-repository-name`, and `'YOUR_AP
 To install the package, simply use pip:
 
 ```bash
-pip install youtube-api-wrapper
+pip install youtube_wrapper
 
 
