@@ -18,7 +18,7 @@ To install the package, simply use pip:
 ```bash
 pip install youtube_wrapper
 ```
-To execute the test_sript
+To execute the test_script
 
 ```bash
 set PYTHONPATH=%cd%
