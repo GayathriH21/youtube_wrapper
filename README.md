@@ -26,5 +26,5 @@ python tests/test_script.py
 ```
 ## Instruction
 
-Replace placeholders like `your-username`, `your-repository-name`, and `'YOUR_API_KEY'` with actual values specific to your project. 
+Replace placeholders like ''YOUR_API_KEY'` with actual values specific to your project. 
 
