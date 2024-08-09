@@ -2,8 +2,8 @@ from youtube_wrapper.youtube_data import YouTubeDataAPI
 from youtube_wrapper.youtube_transcript import YouTubeTranscriptAPI
 
 # Replace with your API key and video ID
-api_key = 'AIzaSyC3jXsQaHKfpQgtgxOaq053xOJhnlMTqxQ'
-video_id = 'WGsMydFFPMk'
+api_key = 'YOUR_ACTUAL_YOUTUBE_API_KEY'
+video_id = 'YOUR_ACTUAL_VIDEO_ID'
 
 
 # Initialize the APIs
