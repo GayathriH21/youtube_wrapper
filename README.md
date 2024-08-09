@@ -26,5 +26,5 @@ python tests/test_script.py
 ```
 ## Instruction
 
-Replace placeholders like ''YOUR_API_KEY'` with actual values specific to your project. 
+Replace placeholders like ''YOUR_ACTUAL_YOUTUBE_API_KEY' ,''YOUR_ACTUAL_VIDEO_ID'' with actual values specific to your project. 
 
